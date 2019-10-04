@@ -14,8 +14,9 @@ cd WhatsRCE && bash start.sh
 ## How Get Shell ?
 
 1. You just send the **.GIF** file to victim user **AS A DOCUMENT NOT IMAGES**
-2. You can use the Social Engineering attack so that victims can be attracted to launch this exploit
-3. tell the victim to open the gallery via whatsapp and send the victim to send any photos (no need, it's just got to the gallery no problem) after that a few seconds later you will receive a shell connection from the victim
+2. And set the nc / netcat to port you set on the WhatsRCE tools {**nc -lnvp your_port**}
+3. You can use the Social Engineering attack so that victims can be attracted to launch this exploit
+4. tell the victim to open the gallery via whatsapp and send the victim to send any photos (no need, it's just got to the gallery no problem) after that a few seconds later you will receive a shell connection from the victim
 
 or just watch this 
 
