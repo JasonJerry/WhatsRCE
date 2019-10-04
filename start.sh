@@ -1,7 +1,4 @@
 #!/bin/bash
-sudo apt install gcc
-rm exploit.c
-rm generate
 if [[ $(ls | grep "gif_lib.h") == "" ]]; then
 curl -s https://raw.githubusercontent.com/dorkerdevil/CVE-2019-11932/master/gif_lib.h -o gif_lib.h
 fi
