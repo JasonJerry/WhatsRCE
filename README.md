@@ -4,6 +4,13 @@ This is a Automated Generate Payload for CVE-2019-11932 (WhatsApp Remote Code Ex
 1. Auto install GCC (no harm command, you can see this is open-source)
 2. Saving to **.GIF** file
 
+## How To Use ?
+```
+sudo apt install git
+git clone https://github.com/KeepWannabe/WhatsRCE
+cd WhatsRCE && bash start.sh
+```
+
 ## How Get Shell ?
 
 1. You just send the **.GIF** file to victim user
